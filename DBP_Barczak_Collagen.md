@@ -1,11 +1,10 @@
 # Project Outline
-The aim of the project is to quantify collagen deposition in murine lungs that have been infected with Mycobacterium tuberculosis and comapre this with the amounts of collagen present in healthy or uninfected (vehicle administered) murine lungs.
+The aim of the project is to quantify the changes in the collagen content in murine lungs that have been infected with Mycobacterium tuberculosis and compare this with the amounts of collagen present in healthy or uninfected (vehicle administered) murine lungs.
 
 
 ## I. Methodology - Image-bassed quantitation of collagen
-## A. Phase I (Investigators: Melissa Gillis, Amy Barczak, Beth Cimini)
-
 ### 1. Determining suitability of available image analysis softwares for collagen quantitation
+Ilastik and QuPath were used to qunatify collagen content in lung tissue from TB-infected or healthy mice. 
 
 ### 2. Collagen quantitation using QuPath (set 1)
 
