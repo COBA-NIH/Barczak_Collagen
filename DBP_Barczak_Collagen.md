@@ -14,7 +14,7 @@ Ilastik and QuPath were used to qunatify collagen content in lung tissue from TB
 
 ### 5. Analysis of second set of images
 ### (i) Image QC and performing tiling and collagen quantitaion on a subset of images
-A second set comprising 34 images was received in Sept, 2022. The images were subjected to a visual QC for their staining and scannng quality. All the images were found to be of acceptable quality for further analysis (i.e. no restaining / rescanning required).
+A second set comprising 34 images was received. The images were subjected to a visual QC for their staining and scannng quality. All the images were found to be of acceptable quality for further analysis (i.e. no restaining / rescanning required).
 
 
 example image
