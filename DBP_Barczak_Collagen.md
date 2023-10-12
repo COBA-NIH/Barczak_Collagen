@@ -19,7 +19,7 @@ Ilastik and QuPath were used to qunatify collagen content in lung tissue from TB
 ### 2. Determining inter-rater agreement (human vs human and human vs QuPath) for collagen quantitation
 
 ### 3. Analysis of second set of images
-####(i) Image QC and performing tiling and collagen quantitaion on a subset of images
+#### (i) Image QC and performing tiling and collagen quantitaion on a subset of images
 A second set comprising 34 images was received in Sept, 2022. The images were subjected to a visual QC for their staining and scannng quality. All the images were found to be of acceptable quality for further analysis (i.e. no restaining / rescanning required).
 
 
@@ -35,6 +35,6 @@ As a second QC-step, a subset (n=4) of these images were selected and were conve
 example image
 example image
 
-####(ii) Running the images through the collagen quantitation pipeline
+#### (ii) Running the images through the collagen quantitation pipeline
 --- example images ----
 
