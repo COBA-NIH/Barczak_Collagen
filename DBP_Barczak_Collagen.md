@@ -11,6 +11,7 @@ Ilastik and QuPath were used to qunatify collagen content in lung tissue from TB
 ### 3. Testing the reproducibility of the methods used for tiling WSIs and quantifying collagen
 
 ![AB 21_01_08 x-8192_y-28672_w-2048_h-2048_Outlines](https://github.com/COBA-NIH/Barczak_Collagen/assets/139376717/41ab21cf-6df0-475c-bac2-f52c04545585)
+
 Overlay of the annotations created by three human observers and QuPath
 
 ### 4. Determining inter-rater agreement (human vs human and human vs QuPath) for collagen quantitation
