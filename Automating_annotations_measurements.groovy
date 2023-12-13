@@ -2,7 +2,7 @@
 
 def minArea = 0.0 // To change
 def minHoleArea = 10.0 // To change
-def classifierName = "threeclass_full" // To change
+def classifierName = "threeclass_high" // To change
 
 // Select all annotations
 selectAnnotations()
