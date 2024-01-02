@@ -1,1 +1,18 @@
-## Description of the steps followed for developing a pixel classifier for quantitating collagen fibers in histology images
+# Description of the steps followed for developing a pixel classifier for quantitating collagen fibers in histology images
+
+## Methods
+
+To automate the detection and quantitation of collagen in sections of murine lung tissue stained with Masson’s Trichrome, a pixel classifier was developed in QuPath. To efficiently train the pixel classifier, representative images (.mrxs files) were carefully selected from the dataset and smaller sections (tiles) were extracted using the region annotation class in QuPath and were combined in a collage to form an image that was more representative of the full variance of the dataset. The pixel classifier was then trained using three different classes - collagen, tissue, and background (blank areas of the slide). These classes were annotated in the images using the brush tool or the rectangular annotator tool. To ensure greater accuracy of the pixel classifier, areas of similar size for the three classes were annotated on the images. Next, a RTrees pixel classifier was created with the full resolution the the following features: Gaussian, Laplacian of Gaussian, Hessian min max and middle eigenvalues and Structure tensor in max and middle eigenvalues. 
+
+To check the accuracy of the classifier, three researchers were provided eight tiles from the larger images and were asked to manually annotate areas of collagen, tissue, and background using QuPath. Annotations made by the researchers were exported using a script in QuPath and compared with those produced by the pixel classifier by using a pipeline in CellProfiler which helped identify areas of (non)overlap between the annotators and the pixel classifier.
+
+### Inter-observer agreement (machine annotations vs human annotations, human annotations vs human annotations)
+
+
+
+
+
+
+
+
+Areas comparison
