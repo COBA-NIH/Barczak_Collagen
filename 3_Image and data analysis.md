@@ -39,5 +39,6 @@ example image
 2. Both sets of images were uploaded and the image type was set to 'brightfield-Other'
 3. Each WSI was converted to tiles 2048 x 2048 pixels in size using the 'QuPath_exporttiles' script.
 4. Detection of collagen and measurement of the collagenous areas werre performed using the 'threeclass_high_classifier.json' file
+5. 
 --- example images ----
 
