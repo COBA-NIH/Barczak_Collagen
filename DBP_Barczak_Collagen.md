@@ -1,10 +1,10 @@
 # Project Outline
-The aim of the project is to quantify the changes in the collagen content in murine lungs that have been infected with Mycobacterium tuberculosis and compare this with the amounts of collagen present in healthy or uninfected (vehicle administered) murine lungs.
+The aim of the project is to quantify the changes in the collagen content in murine lungs that have been infected with Mycobacterium tuberculosis and compare this with the amounts of collagen present in healthy or uninfected (vehicle administered) murine lungs. This project also investaigtes the changes in the collagen content of TB-infected murine lungs on receiving drug treatment.
 
 
 ## Methodology - Image-bassed quantitation of collagen
 ### 1. Determining suitability of available image analysis softwares for collagen quantitation
-Ilastik and QuPath were used to qunatify collagen content in lung tissue from TB-infected or healthy mice. 
+Ilastik and QuPath were used to quantify collagen content in lung tissue from TB-infected mice and healthy mice. 
 
 ### 2. Collagen quantitation using QuPath (set 1)
 
