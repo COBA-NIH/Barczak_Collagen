@@ -8,7 +8,9 @@ To check the accuracy of the classifier, three researchers were provided eight t
 
 ## II. Measuring inter-observer agreement (machine annotations vs human annotations, human annotations vs human annotations)
 
-To test the performance of the pixel classifier, a representative set of eight tiles, having varying proportions of collagen content (determined by visual inspection) was selected from eight samples, and provided to three researchers (A.B, M.G., and S.D) to manually annotate areas as - lung tissue (areas stained red-brown by MT), collagen (areas stained blue by MT), and airspaces (blank areas within the tissue section).
+1. To test the performance of the pixel classifier, a representative set of eight image tiles, having varying proportions of collagen content (determined by visual inspection) was selected from eight samples, and provided to three researchers (A.B, M.G., and S.D) to manually annotate areas as - lung tissue (areas stained red-brown by MT), collagen (areas stained blue by MT), and airspaces (blank areas within the tissue section). For comparing with the human These tiles were also analyzed using the pixel classifier in QuPath
+
+2. Next, 
 
 
 
