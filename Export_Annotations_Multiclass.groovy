@@ -1,4 +1,4 @@
-## Exporting annotations - from images containing annotations of multiple classes
+// Exporting annotations - from images containing annotations of multiple classes
 
 def imageData = getCurrentImageData()
 
