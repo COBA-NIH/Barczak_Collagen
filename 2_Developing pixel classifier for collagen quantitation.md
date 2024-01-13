@@ -10,6 +10,6 @@ To check the accuracy of the classifier, three researchers were provided eight t
 
 1. To test the performance of the pixel classifier, a representative set of eight image tiles, having varying proportions of collagen content (determined by visual inspection) was selected from eight samples, and provided to three researchers (A.B, M.G., and S.D) to manually annotate areas as - lung tissue (areas stained red-brown by MT), collagen (areas stained blue by MT), and airspaces (blank areas within the tissue section). For comparing with the human annotations, these tiles were also analyzed using the pixel classifier in QuPath, to generate the same three classes of annotations.
 
-2. Next, for each observer and for QuPath, the annotated areas were exported as masks, to compare the areas of (non)overlap using CellProfiler (Collagen_Annotator_comparison.cppipe).
+2. Next, for each observer and for QuPath, pixels were derived from the annotated areas and exported as images usinng the 'Export_Annotations_Singleclass' script. These images were further analyzed to meausre the areas of (non)overlap in the collagen annotations a using CellProfiler (Collagen_Annotator_comparison.cppipe) pipeline.
 
 3. 
