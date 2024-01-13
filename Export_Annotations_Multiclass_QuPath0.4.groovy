@@ -1,4 +1,4 @@
-// Exporting annotations from images containing annotations of multiple classes
+// Deriving pixels from image annotations of multiple classes 
 
 def imageData = getCurrentImageData()
 
