@@ -1,4 +1,4 @@
-#Script to automate creating annotations based on a pretrained pixel classifier on WSIs or tiles created from WSIs, and then measuring and exporting the areas, perimeters, and X and Y centroids of these annotations
+//Script to automate creating annotations based on a pretrained pixel classifier on WSIs or tiles created from WSIs, and then measuring and exporting the areas, perimeters, and X and Y centroids of these annotations
 
 def minArea = 0.0 // To change
 def minHoleArea = 10.0 // To change
