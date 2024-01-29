@@ -1,8 +1,8 @@
-#Script to automate creating annotations based on a pretrained pixel classifier on whole slide images or tiles created from whole slide images and then measuring the areas, perimeters, and X and Y centroids of these measurements
+#Script to automate creating annotations based on a pretrained pixel classifier on WSIs or tiles created from WSIs, and then measuring and exporting the areas, perimeters, and X and Y centroids of these annotations
 
 def minArea = 0.0 // To change
 def minHoleArea = 10.0 // To change
-def classifierName = "threeclass_high" // To change
+def classifierName = "threeclass_high" // Change to the name of the pixel classifier
 
 // Select all annotations
 selectAnnotations()
