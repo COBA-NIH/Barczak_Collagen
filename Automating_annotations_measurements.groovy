@@ -2,7 +2,7 @@
 
 def minArea = 0.0 // To change
 def minHoleArea = 10.0 // To change
-def classifierName = "threeclass_high_retrained" // Change to the name of the pixel classifier
+def classifierName = "three_class_high_retrained" // Change to the name of the pixel classifier
 
 // Select all annotations
 selectAnnotations()
