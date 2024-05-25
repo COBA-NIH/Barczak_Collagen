@@ -1,8 +1,8 @@
 //Script to automate creating annotations based on a pretrained pixel classifier on WSIs or tiles created from WSIs, and then measuring and exporting the areas, perimeters, and X and Y centroids of these annotations
 
 def minArea = 0.0 // To change
-def minHoleArea = 10.0 // To change
-def classifierName = "three_class_high_retrained" // Change to the name of the pixel classifier
+def minHoleArea = 2.0 // To change
+def classifierName = "new_classifier_set2" // Change to the name of the pixel classifier
 
 // Select all annotations
 selectAnnotations()
