@@ -30,4 +30,3 @@ Average number of tiles / image = ~55
 
 ### Overall Impression
 There is some overcalling in general, but it is avoiding common pitfalls such as incorrectly calling lymphocyte clusters as collagen.
-I can retrain the classifier adding some images from 900 series, but the 700 series has very weak staining, so any classifier that can work on 700 series will almost certainly end up overcalling in any images with slightly better staining quality.
