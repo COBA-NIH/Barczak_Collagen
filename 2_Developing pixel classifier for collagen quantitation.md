@@ -12,4 +12,4 @@ To check the accuracy of the classifier, three researchers were provided eight t
 
 2. Next, for each observer and for QuPath, pixels were derived from the annotated areas and exported as images usinng the 'Export_Annotations_Singleclass' script. These images were further analyzed to meausre the areas of (non)overlap in the collagen annotations a using CellProfiler (Collagen_Annotator_comparison.cppipe) pipeline.
 
-3. 
+   
